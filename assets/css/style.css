@@ -147,6 +147,13 @@ ul {
   border-top: thick solid #002366;
 }
 
+.copyright {
+  font-family: 'Press Start 2P';
+  font-weight: 200;
+  font-size: 14px;
+  text-align: center;
+}
+
 .socialble {
   margin: 11px;
 }
@@ -363,9 +370,4 @@ fieldset {
 }
 :-ms-input-placeholder {
  color:#888;
-}
-
-.copyright {
-  font-family: 'Press Start 2P', cursive;
-  text-align: center;
 }
